@@ -7,7 +7,7 @@
   "activationHooks": [
     "language-hoon:grammar-used"
   ],
-  "repository": "https://github.com/yonilevy/hoon-assist",
+  "repository": "https://github.com/urbit/hoon-assist",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
